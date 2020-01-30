@@ -14,7 +14,6 @@ Hardware Requirements:
     3. LDR sensor
     4. 5Volt Relay
     5. DHT Sensor
-    6. IR Obstacle Avoidance Sensor
 
 Software Requirements:
     Adruino UI
