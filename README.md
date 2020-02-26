@@ -9,7 +9,7 @@ Proposed System:
     
 Hardware Requirements:
     1. Arduino Nano 
-    2. Jumbo wires
+    2. Jumper wires
     3. LDR sensor
     4. 5Volt Relay
     5. DHT11 Sensor
